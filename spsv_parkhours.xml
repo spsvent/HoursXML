@@ -15,8 +15,8 @@
 <Day Date="4/04/2025" FormatDate="20250404" ParkHours="10 AM - 5 PM" WaterParkHours="10 AM - 4 PM" HasWaterPark="true"/>
 <Day Date="4/05/2025" FormatDate="20250405" ParkHours="10 AM - 6 PM" WaterParkHours="10 AM - 4 PM" HasWaterPark="true"/>
 <Day Date="4/06/2025" FormatDate="20250406" ParkHours="10 AM - 5 PM" WaterParkHours="10 AM - 4 PM" HasWaterPark="true"/>
-<Day Date="4/11/2025" FormatDate="20250406" ParkHours="10 AM - 5 PM" WaterParkHours="10 AM - 4 PM" HasWaterPark="true"/>
-<Day Date="4/12/2025" FormatDate="20250406" ParkHours="10 AM - 6 PM" WaterParkHours="10 AM - 4 PM" HasWaterPark="true"/>
-<Day Date="4/13/2025" FormatDate="20250406" ParkHours="10 AM - 5 PM" WaterParkHours="closed" HasWaterPark="true"/>
+<Day Date="4/11/2025" FormatDate="20250411" ParkHours="10 AM - 5 PM" WaterParkHours="10 AM - 4 PM" HasWaterPark="true"/>
+<Day Date="4/12/2025" FormatDate="20250412" ParkHours="10 AM - 6 PM" WaterParkHours="10 AM - 4 PM" HasWaterPark="true"/>
+<Day Date="4/13/2025" FormatDate="20250413" ParkHours="10 AM - 5 PM" WaterParkHours="closed" HasWaterPark="true"/>
 </Days>
 </Hours>
