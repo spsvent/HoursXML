@@ -1,91 +1,86 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Hours>
-  <Days>
-    <Day Date="9/30/2025" FormatDate="20250930" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/1/2025" FormatDate="20251001" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/2/2025" FormatDate="20251002" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/3/2025" FormatDate="20251003" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/4/2025" FormatDate="20251004" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/5/2025" FormatDate="20251005" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/6/2025" FormatDate="20251006" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/7/2025" FormatDate="20251007" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/8/2025" FormatDate="20251008" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/9/2025" FormatDate="20251009" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/10/2025" FormatDate="20251010" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/11/2025" FormatDate="20251011" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/12/2025" FormatDate="20251012" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/13/2025" FormatDate="20251013" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/14/2025" FormatDate="20251014" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/15/2025" FormatDate="20251015" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/16/2025" FormatDate="20251016" ParkHours="10:00AM - 10:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/17/2025" FormatDate="20251017" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/18/2025" FormatDate="20251018" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/19/2025" FormatDate="20251019" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/20/2025" FormatDate="20251020" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/21/2025" FormatDate="20251021" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/22/2025" FormatDate="20251022" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/23/2025" FormatDate="20251023" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/24/2025" FormatDate="20251024" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/25/2025" FormatDate="20251025" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/26/2025" FormatDate="20251026" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/27/2025" FormatDate="20251027" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/28/2025" FormatDate="20251028" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/29/2025" FormatDate="20251029" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true" />
-    <Day Date="10/30/2025" FormatDate="20251030" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-    <Day Date="10/31/2025" FormatDate="20251031" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true" />
-  </Days>
-  <hours>
-    <day date="2025-10-19">
-      <general open="00:00" close="00:00" />
-      <trails open="00:00" close="00:00" />
-      <special_event open="00:00" close="23:59" name="PUMPKINS IN THE PINES" />
-    </day>
-    <day date="2025-10-20">
-      <general status="closed" />
-    </day>
-    <day date="2025-10-21">
-      <general status="closed" />
-    </day>
-    <day date="2025-10-22">
-      <general status="closed" />
-    </day>
-    <day date="2025-10-23">
-      <general open="00:00" close="00:00" />
-      <trails open="00:00" close="00:00" />
-    </day>
-    <day date="2025-10-24">
-      <general open="00:00" close="00:00" />
-      <trails open="00:00" close="00:00" />
-      <general open="00:00" close="23:59" />
-    </day>
-    <day date="2025-10-25">
-      <general open="00:00" close="00:00" />
-      <trails open="00:00" close="00:00" />
-      <special_event open="00:00" close="23:59" name="PUMPKINS IN THE PINES" />
-      <general open="00:00" close="23:59" />
-    </day>
-    <day date="2025-10-26">
-      <general open="00:00" close="00:00" />
-      <trails open="00:00" close="00:00" />
-      <special_event open="00:00" close="23:59" name="PUMPKINS IN THE PINES" />
-    </day>
-    <day date="2025-10-27">
-      <general status="closed" />
-    </day>
-    <day date="2025-10-28">
-      <general status="closed" />
-    </day>
-    <day date="2025-10-29">
-      <general status="closed" />
-    </day>
-    <day date="2025-10-30">
-      <general open="00:00" close="00:00" />
-      <trails open="00:00" close="00:00" />
-    </day>
-    <day date="2025-10-31">
-      <special_event open="00:00" close="23:59" name="SKYPARK SPOOKY SPECTACULAR" />
-      <general open="00:00" close="00:00" />
-      <trails open="00:00" close="00:00" />
-    </day>
-  </hours>
+<Days>
+
+<Day Date="10/18/2025" FormatDate="20251018" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 9:00PM" HasWaterPark="true"/>
+
+<Day Date="10/19/2025" FormatDate="20251019" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
+
+<Day Date="10/20/2025" FormatDate="20251020" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+
+<Day Date="10/21/2025" FormatDate="20251021" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+
+<Day Date="10/22/2025" FormatDate="20251022" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+
+<Day Date="10/23/2025" FormatDate="20251023" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
+
+<Day Date="10/24/2025" FormatDate="20251024" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 9:00PM" HasWaterPark="true"/>
+
+<Day Date="10/25/2025" FormatDate="20251025" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 9:00PM" HasWaterPark="true"/>
+
+<Day Date="10/26/2025" FormatDate="20251026" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
+
+<Day Date="10/27/2025" FormatDate="20251027" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+
+<Day Date="10/28/2025" FormatDate="20251028" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+
+<Day Date="10/29/2025" FormatDate="20251029" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+
+<Day Date="10/30/2025" FormatDate="20251030" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
+
+<Day Date="10/31/2025" FormatDate="20251031" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+</Days>
+<hours>
+<day date="2025-10-19">
+<general open="00:00" close="00:00"/>
+<trails open="00:00" close="00:00"/>
+<special_event open="00:00" close="23:59" name="PUMPKINS IN THE PINES"/>
+</day>
+<day date="2025-10-20">
+<general status="closed"/>
+</day>
+<day date="2025-10-21">
+<general status="closed"/>
+</day>
+<day date="2025-10-22">
+<general status="closed"/>
+</day>
+<day date="2025-10-23">
+<general open="00:00" close="00:00"/>
+<trails open="00:00" close="00:00"/>
+</day>
+<day date="2025-10-24">
+<general open="00:00" close="00:00"/>
+<trails open="00:00" close="00:00"/>
+<general open="00:00" close="23:59"/>
+</day>
+<day date="2025-10-25">
+<general open="00:00" close="00:00"/>
+<trails open="00:00" close="00:00"/>
+<special_event open="00:00" close="23:59" name="PUMPKINS IN THE PINES"/>
+<general open="00:00" close="23:59"/>
+</day>
+<day date="2025-10-26">
+<general open="00:00" close="00:00"/>
+<trails open="00:00" close="00:00"/>
+<special_event open="00:00" close="23:59" name="PUMPKINS IN THE PINES"/>
+</day>
+<day date="2025-10-27">
+<general status="closed"/>
+</day>
+<day date="2025-10-28">
+<general status="closed"/>
+</day>
+<day date="2025-10-29">
+<general status="closed"/>
+</day>
+<day date="2025-10-30">
+<general open="00:00" close="00:00"/>
+<trails open="00:00" close="00:00"/>
+</day>
+<day date="2025-10-31">
+<special_event open="00:00" close="23:59" name="SKYPARK SPOOKY SPECTACULAR"/>
+<general open="00:00" close="00:00"/>
+<trails open="00:00" close="00:00"/>
+</day>
+</hours>
 </Hours>
