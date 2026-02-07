@@ -1,105 +1,52 @@
 <Hours>
 <Days>
-<Day Date="12/18/2025" FormatDate="20251218" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/19/2025" FormatDate="20251219" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/20/2025" FormatDate="20251220" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/21/2025" FormatDate="20251221" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/22/2025" FormatDate="20251222" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/23/2025" FormatDate="20251223" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/24/2025" FormatDate="20251224" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/25/2025" FormatDate="20251225" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="12/26/2025" FormatDate="20251226" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/27/2025" FormatDate="20251227" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/28/2025" FormatDate="20251228" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/29/2025" FormatDate="20251229" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/30/2025" FormatDate="20251230" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="12/31/2025" FormatDate="20251231" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/1/2026" FormatDate="20260101" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/2/2026" FormatDate="20260102" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/3/2026" FormatDate="20260103" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/4/2026" FormatDate="20260104" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/5/2026" FormatDate="20260105" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/6/2026" FormatDate="20260106" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/7/2026" FormatDate="20260107" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/8/2026" FormatDate="20260108" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/9/2026" FormatDate="20260109" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/10/2026" FormatDate="20260110" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/11/2026" FormatDate="20260111" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/12/2026" FormatDate="20260112" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/13/2026" FormatDate="20260113" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/14/2026" FormatDate="20260114" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/15/2026" FormatDate="20260115" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/16/2026" FormatDate="20260116" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/17/2026" FormatDate="20260117" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/18/2026" FormatDate="20260118" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/19/2026" FormatDate="20260119" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/20/2026" FormatDate="20260120" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/21/2026" FormatDate="20260121" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/22/2026" FormatDate="20260122" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/23/2026" FormatDate="20260123" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/24/2026" FormatDate="20260124" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/25/2026" FormatDate="20260125" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="1/26/2026" FormatDate="20260126" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/27/2026" FormatDate="20260127" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/28/2026" FormatDate="20260128" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/29/2026" FormatDate="20260129" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="1/30/2026" FormatDate="20260130" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/1/2026" FormatDate="20260201" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="2/2/2026" FormatDate="20260202" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/3/2026" FormatDate="20260203" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/4/2026" FormatDate="20260204" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/5/2026" FormatDate="20260205" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/6/2026" FormatDate="20260206" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="2/6/2026" FormatDate="20260206" ParkHours="4:00PM - 9:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/7/2026" FormatDate="20260207" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="2/8/2026" FormatDate="20260208" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="2/8/2026" FormatDate="20260208" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="2/9/2026" FormatDate="20260209" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/10/2026" FormatDate="20260210" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/11/2026" FormatDate="20260211" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/12/2026" FormatDate="20260212" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/13/2026" FormatDate="20260213" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="2/13/2026" FormatDate="20260213" ParkHours="4:00PM - 9:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/14/2026" FormatDate="20260214" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="2/15/2026" FormatDate="20260215" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="2/15/2026" FormatDate="20260215" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="2/16/2026" FormatDate="20260216" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/17/2026" FormatDate="20260217" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/18/2026" FormatDate="20260218" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/19/2026" FormatDate="20260219" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/20/2026" FormatDate="20260220" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="2/20/2026" FormatDate="20260220" ParkHours="4:00PM - 9:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/21/2026" FormatDate="20260221" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="2/22/2026" FormatDate="20260222" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="2/22/2026" FormatDate="20260222" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="2/23/2026" FormatDate="20260223" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/24/2026" FormatDate="20260224" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/25/2026" FormatDate="20260225" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="2/26/2026" FormatDate="20260226" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="2/27/2026" FormatDate="20260227" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="3/1/2026" FormatDate="20260301" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="2/27/2026" FormatDate="20260227" ParkHours="4:00PM - 9:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="3/1/2026" FormatDate="20260301" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="3/2/2026" FormatDate="20260302" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/3/2026" FormatDate="20260303" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/4/2026" FormatDate="20260304" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/5/2026" FormatDate="20260305" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="3/6/2026" FormatDate="20260306" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/7/2026" FormatDate="20260307" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="3/8/2026" FormatDate="20260308" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="3/8/2026" FormatDate="20260308" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="3/9/2026" FormatDate="20260309" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/10/2026" FormatDate="20260310" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/11/2026" FormatDate="20260311" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/12/2026" FormatDate="20260312" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="3/13/2026" FormatDate="20260313" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/14/2026" FormatDate="20260314" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="3/15/2026" FormatDate="20260315" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="3/15/2026" FormatDate="20260315" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="3/16/2026" FormatDate="20260316" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/17/2026" FormatDate="20260317" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/18/2026" FormatDate="20260318" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/19/2026" FormatDate="20260319" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="3/20/2026" FormatDate="20260320" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/21/2026" FormatDate="20260321" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="3/22/2026" FormatDate="20260322" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="3/22/2026" FormatDate="20260322" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="3/23/2026" FormatDate="20260323" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/24/2026" FormatDate="20260324" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/25/2026" FormatDate="20260325" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/26/2026" FormatDate="20260326" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
-<Day Date="3/27/2026" FormatDate="20260327" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/28/2026" FormatDate="20260328" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
-<Day Date="3/29/2026" FormatDate="20260329" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
+<Day Date="3/29/2026" FormatDate="20260329" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="3/30/2026" FormatDate="20260330" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/31/2026" FormatDate="20260331" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 </Days>
