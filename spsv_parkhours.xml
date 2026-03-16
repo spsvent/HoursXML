@@ -1,6 +1,5 @@
 <Hours>
 <Days>
-<Day Date="3/15/2026" FormatDate="20260315" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="3/20/2026" FormatDate="20260320" ParkHours="4:00PM - 9:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="3/21/2026" FormatDate="20260321" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="3/22/2026" FormatDate="20260322" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
