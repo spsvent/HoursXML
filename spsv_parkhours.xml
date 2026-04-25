@@ -1,7 +1,6 @@
 <Hours>
 <Days>
-<Day Date="4/24/2026" FormatDate="20260424" ParkHours="11:00AM - 9:00PM" WaterParkHours="11:00AM - 5:00PM" HasWaterPark="true"/>
-<Day Date="4/25/2026" FormatDate="20260425" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
+<Day Date="4/25/2026" FormatDate="20260425" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="4/26/2026" FormatDate="20260426" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:00PM" HasWaterPark="true"/>
 <Day Date="5/1/2026" FormatDate="20260501" ParkHours="11:00AM - 9:00PM" WaterParkHours="11:00AM - 5:00PM" HasWaterPark="true"/>
 <Day Date="5/2/2026" FormatDate="20260502" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
