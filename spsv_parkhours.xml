@@ -60,6 +60,7 @@
 <Day Date="8/7/2026" FormatDate="20260807" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="8/8/2026" FormatDate="20260808" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="8/9/2026" FormatDate="20260809" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
+<Day Date="8/14/2026" FormatDate="20260814" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="8/23/2026" FormatDate="20260823" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 </Days>
 </Hours>
