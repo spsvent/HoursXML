@@ -1,18 +1,5 @@
 <Hours>
 <Days>
-<Day Date="6/11/2026" FormatDate="20260611" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:30PM" HasWaterPark="true"/>
-<Day Date="6/12/2026" FormatDate="20260612" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
-<Day Date="6/13/2026" FormatDate="20260613" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
-<Day Date="6/14/2026" FormatDate="20260614" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
-<Day Date="6/17/2026" FormatDate="20260617" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
-<Day Date="6/18/2026" FormatDate="20260618" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
-<Day Date="6/19/2026" FormatDate="20260619" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
-<Day Date="6/20/2026" FormatDate="20260620" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
-<Day Date="6/21/2026" FormatDate="20260621" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
-<Day Date="6/24/2026" FormatDate="20260624" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
-<Day Date="6/25/2026" FormatDate="20260625" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
-<Day Date="6/26/2026" FormatDate="20260626" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
-<Day Date="6/27/2026" FormatDate="20260627" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="6/28/2026" FormatDate="20260628" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
 <Day Date="7/1/2026" FormatDate="20260701" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
 <Day Date="7/2/2026" FormatDate="20260702" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
