@@ -1,6 +1,5 @@
 <Hours>
 <Days>
-<Day Date="7/3/2026" FormatDate="20260703" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="7/4/2026" FormatDate="20260704" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="7/5/2026" FormatDate="20260705" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
 <Day Date="7/8/2026" FormatDate="20260708" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
@@ -23,7 +22,6 @@
 <Day Date="7/31/2026" FormatDate="20260731" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="8/1/2026" FormatDate="20260801" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="8/2/2026" FormatDate="20260802" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
-<Day Date="8/5/2026" FormatDate="20260805" ParkHours="10:00AM - 6:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
 <Day Date="8/6/2026" FormatDate="20260806" ParkHours="10:00AM - 7:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="8/7/2026" FormatDate="20260807" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
 <Day Date="8/8/2026" FormatDate="20260808" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 6:00PM" HasWaterPark="true"/>
