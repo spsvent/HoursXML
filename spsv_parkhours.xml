@@ -36,5 +36,6 @@
 <Day Date="10/29/2026" FormatDate="20261029" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:30PM" HasWaterPark="true"/>
 <Day Date="10/30/2026" FormatDate="20261030" ParkHours="10:00AM - 9:00PM" WaterParkHours="10:00AM - 5:00PM" HasWaterPark="true"/>
 <Day Date="11/1/2026" FormatDate="20261101" ParkHours="10:00AM - 5:00PM" WaterParkHours="10:00AM - 4:30PM" HasWaterPark="true"/>
+<Day Date="11/7/2026" FormatDate="20261107" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 </Days>
 </Hours>
