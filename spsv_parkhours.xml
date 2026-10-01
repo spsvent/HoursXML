@@ -30,6 +30,9 @@
 <Day Date="11/20/2026" FormatDate="20261120" ParkHours="10:00AM - 7:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="11/21/2026" FormatDate="20261121" ParkHours="10:00AM - 7:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="11/22/2026" FormatDate="20261122" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="11/23/2026" FormatDate="20261123" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="11/24/2026" FormatDate="20261124" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="11/25/2026" FormatDate="20261125" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="11/26/2026" FormatDate="20261126" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="11/27/2026" FormatDate="20261127" ParkHours="10:00AM - 7:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="11/28/2026" FormatDate="20261128" ParkHours="10:00AM - 7:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
@@ -46,10 +49,16 @@
 <Day Date="12/18/2026" FormatDate="20261218" ParkHours="10:00AM - 7:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="12/19/2026" FormatDate="20261219" ParkHours="10:00AM - 7:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="12/20/2026" FormatDate="20261220" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="12/21/2026" FormatDate="20261221" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="12/22/2026" FormatDate="20261222" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="12/23/2026" FormatDate="20261223" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="12/24/2026" FormatDate="20261224" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="12/25/2026" FormatDate="20261225" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="12/26/2026" FormatDate="20261226" ParkHours="10:00AM - 7:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="12/27/2026" FormatDate="20261227" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="12/28/2026" FormatDate="20261228" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="12/29/2026" FormatDate="20261229" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
+<Day Date="12/30/2026" FormatDate="20261230" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="12/31/2026" FormatDate="20261231" ParkHours="10:00AM - 6:00PM" WaterParkHours="Closed" HasWaterPark="true"/>
 <Day Date="1/1/2027" FormatDate="20270101" ParkHours="Closed" WaterParkHours="Closed" HasWaterPark="true"/>
 </Days>
